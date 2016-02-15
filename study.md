@@ -27,13 +27,13 @@ Show the characters and give their name.
 
 ## Creating or removing a database
 
-What command would you execute to create a database named `mydb`?
+What shell command would you execute to create a database named `mydb`?
 
 ```sh
 # replace this comment with your answer
 ```
 
-What command would you execute to remove a database named `mydb`?
+What shell command would you execute to remove a database named `mydb`?
 
 ```sh
 # replace this comment with your answer
