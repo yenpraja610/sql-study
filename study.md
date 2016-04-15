@@ -9,7 +9,7 @@ Chapter 1. [Getting Started](http://www.postgresql.org/docs/9.5/static/tutorial-
 and Chapter 2. [The SQL Language](http://www.postgresql.org/docs/9.5/static/tutorial-sql.html).
 You are not expected to create tutorial files as described in [2.1. Introduction](http://www.postgresql.org/docs/9.5/static/tutorial-sql-intro.html).
 
-## Notations conventions
+## Notation conventions
 
 What characters denote optional parts of a command?
 Show the characters and give their name.
