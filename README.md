@@ -27,6 +27,10 @@ reference for SQL commands.
 1.  Follow the directions given in [`study.md`](study.md).
 1.  When finished, push to your fork and submit a pull request.
 
+## Additional Resources (optional)
+
+- [Head First Labs Sql Hands On](http://www.headfirstlabs.com/sql_hands_on/)
+
 You may wish to refer to [FAQs](https://github.com/ga-wdi-boston/meta/wiki/)
 related to [forking,
 cloning](https://github.com/ga-wdi-boston/meta/wiki/ForkAndClone), and [pull
